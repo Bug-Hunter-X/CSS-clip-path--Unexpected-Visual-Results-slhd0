@@ -1,0 +1,1 @@
+The CSS property `clip-path` can produce unexpected results when used with certain complex shapes or in conjunction with other CSS properties like `transform` or `animation`.  Debugging such issues can be challenging due to the visual nature of the problem. For example, an incorrectly defined clip-path might cause parts of an element to be unexpectedly hidden or displayed.
